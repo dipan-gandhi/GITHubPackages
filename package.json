@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/dipan-gandhi/GITHubPackages#readme",
   "publishConfig": {
-    "@dipan-gandhi:registry": "https://npm.pkg.github.com"
+    "@dipan-gandhi:registry": "https://github.com"
   }
 }
