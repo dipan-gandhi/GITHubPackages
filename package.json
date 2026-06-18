@@ -1,0 +1,22 @@
+{
+  "name": "githubpackages",
+  "version": "1.0.0",
+  "description": "Sample demo of the packages publish to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipan-gandhi/GITHubPackages.git"
+  },
+  "keywords": [
+    "githubpackage"
+  ],
+  "author": "Dipen Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipan-gandhi/GITHubPackages/issues"
+  },
+  "homepage": "https://github.com/dipan-gandhi/GITHubPackages#readme"
+}
